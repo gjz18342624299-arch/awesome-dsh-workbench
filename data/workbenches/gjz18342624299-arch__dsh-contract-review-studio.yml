@@ -1,5 +1,6 @@
+# Sidebar: hover and selection both use a short marker with transparent background; CSS-only update.
 # Public 0.10.5: canonical repository URL added to desktopWorkbenches.register.
-# Source: https://github.com/gjz18342624299-arch/dsh-contract-review-studio/commit/c291258a31a5ebb1ceaf6064eaec07d7e9a872f2
+# Source: https://github.com/gjz18342624299-arch/dsh-contract-review-studio/commit/943bc9cf52279859e23f0ea65ad9f71f33b9307d
 # User reports another-computer acceptance and successful Word saving; authorized native screenshots supplied.
 # Screenshot provenance and test boundaries: https://github.com/gjz18342624299-arch/dsh-contract-review-studio/blob/c291258a31a5ebb1ceaf6064eaec07d7e9a872f2/docs/verification-0.10.5.md
 url: https://github.com/gjz18342624299-arch/dsh-contract-review-studio
